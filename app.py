@@ -1,18 +1,15 @@
 from flask import Flask,render_template, request, Response
-import anthropic
-import dotenv 
-import os
-
-dotenv.load_dotenv()
-client = anthropic.Anthropic(
-    api_key=os.environ.get("ANTHROPIC_API_KEY"),
-    # api_key=''
-)
-modelo = "claude-3-5-sonnet-20240620"
-
+from chatbot import bot
 
 app = Flask(__name__)
 app.secret_key = 'alura'
+
+@app.route("/chat",methods=['POST'])
+def chat():
+    prompt = request.json["msg"]
+    resposta = bot(prompt)
+    texto_resposta = resposta.content[0].text
+    return texto_resposta 
 
 @app.route("/")
 def home():

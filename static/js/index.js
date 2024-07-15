@@ -14,7 +14,7 @@ async function enviarMensagem() {
     let novaBolhaBot = criaBolhaBot();
     chat.appendChild(novaBolhaBot);
     vaiParaFinalDoChat();
-    novaBolhaBot.innerHTML = "Analisando ..."
+    novaBolhaBot.innerHTML = "Analisando..."
     
     // Envia requisição com a mensagem para a API do ChatBot
     const resposta = await fetch("http://127.0.0.1:5000/chat", {
