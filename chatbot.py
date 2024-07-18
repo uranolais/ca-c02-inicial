@@ -3,27 +3,40 @@ import dotenv
 import os
 from time import sleep
 from helpers import *
+from selecionar_persona import *
+from selecionar_contexto import *
 
 dotenv.load_dotenv()
 client = anthropic.Anthropic(
     api_key=os.environ.get("ANTHROPIC_API_KEY"),
 )
 modelo = "claude-3-5-sonnet-20240620"
-contexto = carrega('./dados/FoodExpress.txt')
+# contexto = carrega('./dados/FoodExpress.txt')
 
-def bot(prompt):
-    prompt_sistema = f"""
-            Você é um chatbot de atendimento a clientes de um aplicativo de restaurantes.
-            Você não pode e nem deve responder perguntas que não sejam dados do aplicativo informado!
-            Você deve gerar respostas utilizando o contexto abaixo.
-            
-            # Contexto
-            {contexto}"""
+def bot(prompt, historico):
+    personalidade = personas[selecionar_persona(prompt)]
     prompt_usuario = prompt
     maximo_tentativas = 1
     repeticao = 0
+    contexto = selecionar_contexto(prompt)
+    documento_contexto = selecionar_documento(contexto)
     while True:
         try:
+            prompt_sistema = f"""
+            Você é um chatbot de atendimento a clientes de um aplicativo de restaurantes.
+            Você não pode e nem deve responder perguntas que não sejam dados do aplicativo informado!
+            Você deve gerar respostas utilizando o contexto abaixo.
+            Você deve adotar a persona abaixo para responder a mensagem.
+            Você deve considerar o histórico da conversa.
+            
+            # Contexto
+            {documento_contexto}
+
+            # Persona
+            {personalidade}
+            ## Historico:
+            {historico}
+            """
             mensagem = client.messages.create(
                 model=modelo,
                 max_tokens=1000,

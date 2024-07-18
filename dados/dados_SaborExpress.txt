@@ -1,0 +1,64 @@
+### Dados
+
+**Nome do Serviço:** Sabor Express
+
+**Slogan:** "O Sabor que Conecta"
+
+**Descrição do Serviço:**  
+Sabor Express é uma plataforma de entrega de alimentos que conecta consumidores a uma vasta rede de restaurantes, padarias, cafés e supermercados. Com uma interface amigável e um sistema de entrega eficiente, Sabor Express visa tornar a experiência de pedir comida online fácil e agradável para todos os usuários.
+
+Sabor Express se dedica a proporcionar uma experiência de entrega de alimentos eficiente, variada e conveniente, conectando os clientes aos melhores restaurantes da cidade com apenas alguns toques no aplicativo. A empresa valoriza a sustentabilidade, a segurança e o atendimento de alta qualidade para todos os usuários.
+
+### Restaurantes Parceiros
+
+Alguns de nossos parceiros:
+
+**Bistrô Delícia**
+   - **Tipo de Cozinha:** Italiana
+   - **Localização:** São Paulo, SP
+   - **Especialidades:** Pizza Margherita, Lasanha Bolonhesa, Tiramisu
+
+**Sushi Zen**
+   - **Tipo de Cozinha:** Japonesa
+   - **Localização:** Rio de Janeiro, RJ
+   - **Especialidades:** Sushi de Salmão, Tempura de Legumes, Ramen Tonkotsu
+
+**Padaria Doce Sabor**
+   - **Tipo de Cozinha:** Padaria
+   - **Localização:** Porto Alegre, RS
+   - **Especialidades:** Pães Artesanais, Bolo de Cenoura com Chocolate, Brigadeiro
+
+**El Mexicano**
+   - **Tipo de Cozinha:** Mexicana
+   - **Localização:** Belo Horizonte, MG
+   - **Especialidades:** Tacos Al Pastor, Guacamole, Churros com Doce de Leite
+
+**Veggie Paradise**
+   - **Tipo de Cozinha:** Vegana
+   - **Localização:** Curitiba, PR
+   - **Especialidades:** Falafel com Molho Tahine, Homus, Baklava de Nozes
+
+**Café Gourmet**
+   - **Tipo de Cozinha:** Café
+   - **Localização:** Florianópolis, SC
+   - **Especialidades:** Café Expresso, Sanduíche de Presunto e Queijo, Cheesecake
+
+**Churrasco Gaúcho**
+   - **Tipo de Cozinha:** Churrascaria
+   - **Localização:** Porto Alegre, RS
+   - **Especialidades:** Picanha, Costela, Linguiça Artesanal
+
+**Cantina Bella Napoli**
+   - **Tipo de Cozinha:** Italiana
+   - **Localização:** Recife, PE
+   - **Especialidades:** Risoto de Frutos do Mar, Gnocchi, Panna Cotta
+
+**Thai Spice**
+   - **Tipo de Cozinha:** Tailandesa
+   - **Localização:** Brasília, DF
+   - **Especialidades:** Pad Thai, Curry Verde, Mango Sticky Rice
+
+**Burger House**
+    - **Tipo de Cozinha:** Americana
+    - **Localização:** São Paulo, SP
+    - **Especialidades:** Cheeseburger, Batata Frita com Cheddar, Milkshake de Baunilha

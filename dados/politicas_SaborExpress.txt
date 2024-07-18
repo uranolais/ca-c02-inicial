@@ -1,13 +1,4 @@
-### Dados
-
-**Nome do Serviço:** Sabor Express
-
-**Slogan:** "O Sabor que Conecta"
-
-**Descrição do Serviço:**  
-Sabor Express é uma plataforma de entrega de alimentos que conecta consumidores a uma vasta rede de restaurantes, padarias, cafés e supermercados. Com uma interface amigável e um sistema de entrega eficiente, Sabor Express visa tornar a experiência de pedir comida online fácil e agradável para todos os usuários.
-
-Sabor Express se dedica a proporcionar uma experiência de entrega de alimentos eficiente, variada e conveniente, conectando os clientes aos melhores restaurantes da cidade com apenas alguns toques no aplicativo. A empresa valoriza a sustentabilidade, a segurança e o atendimento de alta qualidade para todos os usuários.
+## Políticas
 
 **Política de Colaborador:**  
 Sabor Express valoriza seus colaboradores e se compromete a proporcionar um ambiente de trabalho seguro, inclusivo e motivador. Todos os colaboradores recebem treinamento adequado e têm acesso a oportunidades de desenvolvimento profissional.
@@ -25,7 +16,6 @@ Sabor Express respeita a privacidade de seus usuários e se compromete a protege
 
 - **Para Clientes dos Restaurantes Cadastrados:**  
   Sabor Express coleta e utiliza informações dos clientes para processar pedidos, fornecer atualizações de entrega e melhorar a experiência do usuário. Os dados coletados incluem informações de contato, histórico de pedidos e preferências alimentares. Todas as informações são tratadas com confidencialidade e segurança, em conformidade com as leis de proteção de dados. Não compartilhamos informações pessoais dos clientes com terceiros sem consentimento explícito.
-
 
 **Segurança:**  
 A segurança das informações dos usuários é uma prioridade para Sabor Express. Utilizamos tecnologias de ponta para proteger dados pessoais e transações financeiras, garantindo um ambiente seguro para todos os usuários.
@@ -49,6 +39,8 @@ Sabor Express acredita em retribuir à comunidade. Participamos de diversas inic
 **Avaliações e Comentários:**  
 Os clientes podem avaliar seus pedidos e deixar comentários sobre a qualidade dos alimentos e do serviço de entrega. As avaliações ajudam outros usuários a escolher os melhores restaurantes e pratos.
 
+## Benefícios
+
 **Descontos e Promoções:**  
 Sabor Express oferece descontos exclusivos para usuários regulares e novos clientes. Promoções diárias e semanais estão disponíveis em diversos restaurantes. Por padrão, temos:
 1. **PrimeiraCompra10**: 10% de desconto na primeira compra.
@@ -60,62 +52,6 @@ Sabor Express oferece descontos exclusivos para usuários regulares e novos clie
 - **Entrega de Supermercados:** Produtos frescos e de qualidade direto à sua porta.
 - **Entrega de Padarias e Cafés:** Produtos frescos de padarias e cafés locais.
 - **Entrega de Itens de Farmácia:** Produtos essenciais entregues rapidamente.
-
-### Restaurantes Disponíveis
-
-Alguns de nossos parceiros:
-
-1. **Bistrô Delícia**
-   - **Tipo de Cozinha:** Italiana
-   - **Localização:** São Paulo, SP
-   - **Especialidades:** Pizza Margherita, Lasanha Bolonhesa, Tiramisu
-
-2. **Sushi Zen**
-   - **Tipo de Cozinha:** Japonesa
-   - **Localização:** Rio de Janeiro, RJ
-   - **Especialidades:** Sushi de Salmão, Tempura de Legumes, Ramen Tonkotsu
-
-3. **Padaria Doce Sabor**
-   - **Tipo de Cozinha:** Padaria
-   - **Localização:** Porto Alegre, RS
-   - **Especialidades:** Pães Artesanais, Bolo de Cenoura com Chocolate, Brigadeiro
-
-4. **El Mexicano**
-   - **Tipo de Cozinha:** Mexicana
-   - **Localização:** Belo Horizonte, MG
-   - **Especialidades:** Tacos Al Pastor, Guacamole, Churros com Doce de Leite
-
-5. **Veggie Paradise**
-   - **Tipo de Cozinha:** Vegana
-   - **Localização:** Curitiba, PR
-   - **Especialidades:** Falafel com Molho Tahine, Homus, Baklava de Nozes
-
-6. **Café Gourmet**
-   - **Tipo de Cozinha:** Café
-   - **Localização:** Florianópolis, SC
-   - **Especialidades:** Café Expresso, Sanduíche de Presunto e Queijo, Cheesecake
-
-7. **Churrasco Gaúcho**
-   - **Tipo de Cozinha:** Churrascaria
-   - **Localização:** Porto Alegre, RS
-   - **Especialidades:** Picanha, Costela, Linguiça Artesanal
-
-8. **Cantina Bella Napoli**
-   - **Tipo de Cozinha:** Italiana
-   - **Localização:** Recife, PE
-   - **Especialidades:** Risoto de Frutos do Mar, Gnocchi, Panna Cotta
-
-9. **Thai Spice**
-   - **Tipo de Cozinha:** Tailandesa
-   - **Localização:** Brasília, DF
-   - **Especialidades:** Pad Thai, Curry Verde, Mango Sticky Rice
-
-10. **Burger House**
-    - **Tipo de Cozinha:** Americana
-    - **Localização:** São Paulo, SP
-    - **Especialidades:** Cheeseburger, Batata Frita com Cheddar, Milkshake de Baunilha
-
-### Benefícios
 
 ### Para os Parceiros (Clientes Restaurantes)
 
@@ -158,66 +94,4 @@ Alguns de nossos parceiros:
    A Sabor Express promove práticas sustentáveis, incluindo o uso de embalagens ecológicas, o que beneficia clientes conscientes do meio ambiente.
 
 
-### Como Cadastrar um Restaurante na Sabor Express
 
-Cadastrar seu restaurante na Sabor Express é simples e rápido. Siga os passos abaixo para começar a fazer parte da nossa plataforma e alcançar mais clientes:
-
-#### Passo a Passo para Cadastro
-
-1. **Acesse o Site:**  
-   Visite o site oficial da Sabor Express e clique na opção "Cadastrar Restaurante" no menu principal.
-
-2. **Crie uma Conta:**  
-   Se ainda não tiver uma conta, clique em "Criar Conta" e preencha os campos necessários, incluindo seu nome, e-mail e senha. Se já tiver uma conta, faça login.
-
-3. **Preencha o Formulário de Cadastro:**  
-   Complete o formulário de cadastro com as informações do seu restaurante, tais como:
-   - **Nome do Restaurante**
-   - **Endereço Completo**
-   - **CNPJ**
-   - **Nome do Proprietário**
-   - **Telefone de Contato**
-   - **E-mail de Contato**
-   - **Horário de Funcionamento**
-
-4. **Envie os Documentos Necessários:**  
-   Anexe os documentos requeridos para a verificação do seu restaurante, incluindo:
-   - **Cópia do CNPJ**
-   - **Comprovante de Endereço**
-   - **Alvará de Funcionamento**
-   - **Licença Sanitária**
-
-5. **Adicione o Cardápio:**  
-   Faça o upload do seu cardápio com todos os pratos e bebidas oferecidos. Inclua descrições detalhadas, preços e, se possível, fotos de alta qualidade.
-
-6. **Configure as Opções de Entrega:**  
-   Defina as áreas de entrega, taxas aplicáveis e tempo estimado de entrega.
-
-7. **Revise e Envie:**  
-   Revise todas as informações fornecidas. Após verificar que tudo está correto, clique em "Enviar" para completar o cadastro.
-
-#### O Que Você Precisa
-
-- **Documentos Necessários:**  
-  - CNPJ do restaurante.
-  - Comprovante de endereço.
-  - Alvará de funcionamento.
-  - Licença sanitária.
-
-- **Informações Detalhadas do Restaurante:**  
-  - Nome completo e endereço do restaurante.
-  - Horário de funcionamento.
-  - Contato do proprietário e do restaurante.
-
-- **Cardápio Completo:**  
-  - Descrição detalhada dos pratos.
-  - Preços e fotos dos itens do cardápio.
-
-- **Configurações de Entrega:**  
-  - Áreas de entrega cobertas.
-  - Taxas de entrega.
-  - Tempo estimado de entrega.
-
-Após a submissão, nossa equipe irá revisar seu cadastro e, uma vez aprovado, seu restaurante estará ativo na plataforma Sabor Express, pronto para receber pedidos!
-
-Se você tiver dúvidas durante o processo, nossa equipe de suporte dedicada aos parceiros estará disponível para ajudar. Eles podem orientar sobre as melhores práticas para otimizar sua presença na plataforma e maximizar suas vendas.
