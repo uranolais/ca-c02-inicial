@@ -51,7 +51,7 @@ Alguns de nossos parceiros:
 **Cantina Bella Napoli**
    - **Tipo de Cozinha:** Italiana
    - **Localização:** Recife, PE
-   - **Especialidades:** Risoto de Frutos do Mar, Gnocchi, Panna Cotta
+   - **Especialidades:** Risoto de Frutos do Mar, Gnocchi, Panna Cotta, Macarrão
 
 **Thai Spice**
    - **Tipo de Cozinha:** Tailandesa
